@@ -1,21 +1,21 @@
-<h1 align="center">Opa meu fera, hello there!</h1>
-<h3 align="center">My mother call me Thiago Moreira, and I code sometimes</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">My name is Erick Giffoni, and I'm a Software Engineer</h3>
 
-<p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://www.linkedin.com/in/engthm/</a></p>
+<p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://linkedin.com/in/erick-giffoni'>Erick Giffoni</a></p>
 
-- 🔭 I’m currently working on []()
+- 🔭 I’m currently working on [Phovi](https://phovi.app/)
 
-- 🌱 Learning more about **React, React Native, JS, HTML and CSS**
+- 🌱 Learning more about **React, React Native, Cyber Security, NodeJS, UX and UI**
 
-- 👯 If I can help you **I will**
+- 👯 I’m looking to collaborate on **Awesome projects**
 
-- 💬 Wanna know something? ask **anything**
+- 💬 Ask me about **anything**
 
-- 📫 Reach me in **thm.profissional@gmail.com**
+- 📫 Reach me in **giffoni.erick@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/engthm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erick-giffoni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erick-giffoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erick-giffoni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,8 +23,10 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=feurrado&show_icons=true&locale=en&layout=compact" alt="erick-giffoni" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickGiffoni&show_icons=true&locale=en&layout=compact" alt="erick-giffoni" />
 
-![Feurrado's github stats](https://github-readme-stats.vercel.app/api?username=Feurrado&show_icons=true&theme=tokyonight)
+![Giffoni's github stats](https://github-readme-stats.vercel.app/api?username=ErickGiffoni&show_icons=true&theme=tokyonight)
 
+<p align="center">
+  <image src="https://wakatime.com/share/@04c8be20-f35c-4845-b371-0302957da5b0/6056c173-7ecd-49b0-94c6-c3d354f9ff8c.png"></img>
 </p>
