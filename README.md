@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">My name is Erick Giffoni, and I'm a Software Engineer</h3>
+<h1 align="center">Opa meu fera, hello there!👋</h1>
+<h3 align="center">My name is Thiago Moreira, and I code sometimes</h3>
 
-<p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://linkedin.com/in/erick-giffoni'>Erick Giffoni</a></p>
+<p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://www.linkedin.com/in/engthm/</a></p>
 
-- 🔭 I’m currently working on [Phovi](https://phovi.app/)
+- 🔭 I’m currently working on [test](https://test.com/)
 
-- 🌱 Learning more about **React, React Native, Cyber Security, NodeJS, UX and UI**
+- 🌱 Learning more about **React, React Native, JS, HTML, CSS and Figma**
 
-- 👯 I’m looking to collaborate on **Awesome projects**
+- 👯 If I can help you **I will**
 
-- 💬 Ask me about **anything**
+- 💬 Wanna know something? ask me **anything**
 
 - 📫 Reach me in **giffoni.erick@gmail.com**
 
