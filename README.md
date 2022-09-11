@@ -2,7 +2,7 @@
 <h3 align="center">My name is Thiago Moreira, and I code sometimes</h3>
 
 <p> <img src="./img/shurimpe.png"
-href='https://www.linkedin.com/in/engthm/' width="300px">
+href='https://www.linkedin.com/in/engthm/' width="200px">
 
 
 - 🔭 I’m currently working on [](https://phovi.app/)
