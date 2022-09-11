@@ -1,7 +1,7 @@
 <h1 align="center">Opa meu fera, hello there!👋</h1>
 <h3 align="center">My name is Thiago Moreira, and I code sometimes</h3>
 
-<p src="./img/lnkdn" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://www.linkedin.com/in/engthm/</a></p>
+<p src="./img/shurimpe.png" align="center" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erick-giffoni"><a class="LI-simple-link" href='https://www.linkedin.com/in/engthm/</a></p>
 
 - 🔭 I’m currently working on [test](https://test.com/)
 
