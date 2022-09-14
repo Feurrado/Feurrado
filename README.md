@@ -4,7 +4,7 @@
 
 </br> 
 
-- 💻 I’m currently working on finding an intern job or a full time job that gives me opportunity to learn more, but here in Brazil things are more difficult than I wanted to be.
+- 💻 I’m currently working on finding an intern job or a full time job that gives me opportunity to learn more!
 
 - 📚 Learning more about **React, React Native, JS, HTML, CSS and Figma**
 
