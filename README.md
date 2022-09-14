@@ -38,8 +38,8 @@
 
 <hr>
 
-<img align="left" widht="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Feurrado&show_icons=true&locale=en&layout=compact" />
+<img align="left" widht="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Feurrado&show_icons=true&locale=en&layout=compact" />
 
-<img align="right" widht="45%" src="https://github-readme-stats.vercel.app/api?username=Feurrado&show_icons=true&theme=tokyonight" />
+<img align="right" widht="40%" src="https://github-readme-stats.vercel.app/api?username=Feurrado&show_icons=true&theme=tokyonight" />
 
 
