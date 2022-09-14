@@ -14,6 +14,7 @@
 - Reach me in **thm.profissional@gmail.com** or in <a href="https://linkedin.com/in/engthm" target="_blank">LinkedIn</a>
   
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/engthm/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="thiago-moreira" height="30" width="30" /></a>
 </p>
