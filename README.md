@@ -42,6 +42,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Feurrado&show_icons=true&theme=tokyonight" />
 
-<img width="10%" src="https://i.pinimg.com/originals/ce/4e/93/ce4e934d35099910dd36ceca0c14e218.gif" />
+<img width="10%" src="https://static.wixstatic.com/media/87a683_ce547587bf694e579b6ef181c4a8c7ce~mv2.gif" />
 
 
