@@ -1,18 +1,18 @@
-<h1 align="center">Opa meu fera 🦐</h1>
+<h1 align="center">Hey, welcome!</h1>
 
 <h3 align="center">My name is Thiago Moreira, and I code sometimes</h3>
 
 </br> 
 
-- I’m currently working on finding an intern job or a full time job that gives me opportunity to learn more, but here in Brazil things are more difficult than I wanted to be.
+- 💻 I’m currently working on finding an intern job or a full time job that gives me opportunity to learn more, but here in Brazil things are more difficult than I wanted to be.
 
-- Learning more about **React, React Native, JS, HTML, CSS and Figma**
+- 📚 Learning more about **React, React Native, JS, HTML, CSS and Figma**
 
-- If I can help you, **I will**
+- 🤝 If I can help you, **I will**
 
-- Wanna know something? ask me **anything**
+- ❔ Wanna know something? ask me **anything**
 
-- Reach me in **thm.profissional@gmail.com** or in <a href="https://linkedin.com/in/engthm" target="_blank">LinkedIn</a>
+- ✉️ Reach me in **thm.profissional@gmail.com** or in <a href="https://linkedin.com/in/engthm" target="_blank">LinkedIn</a>
   
 <h3 align="left">Connect with me:</h3>
 
@@ -41,5 +41,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Feurrado&show_icons=true&locale=en&layout=compact" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Feurrado&show_icons=true&theme=tokyonight" />
+
+<img width="10%" src="https://i.pinimg.com/originals/ce/4e/93/ce4e934d35099910dd36ceca0c14e218.gif" />
 
 
