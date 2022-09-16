@@ -1,4 +1,4 @@
-<h1 align="center">Hey, welcome!</h1>
+<h1 align="center">Hey, welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <h3 align="center">My name is Thiago Moreira, and I code sometimes</h3>
 
