@@ -44,7 +44,8 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Feurrado&show_icons=true&theme=tokyonight" />
 
-<br>]
+<br>
+
 <p>Hello, Space!</p>
 
 
