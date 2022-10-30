@@ -4,7 +4,7 @@
 
 </br> 
 
-- 💻 I’m currently working at Tribunal de Contas do Estado do Espírito Santo (or just TCEES) as an IT infrastructure internn!
+- 💻 I’m currently working at Tribunal de Contas do Estado do Espírito Santo (or just TCEES) as an IT infrastructure intern!
 
 - 📚 Learning more about **React, React Native, JS, HTML, CSS and Figma**
 
