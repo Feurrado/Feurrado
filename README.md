@@ -4,7 +4,7 @@
 
 </br> 
 
-- 💻 I’m currently working on finding an intern job or a full time job that gives me opportunity to learn more!
+- 💻 I’m currently working at Tribunal de Contas do Estado do Espírito Santo (or just TCEES) as an IT infrastructure internn!
 
 - 📚 Learning more about **React, React Native, JS, HTML, CSS and Figma**
 
