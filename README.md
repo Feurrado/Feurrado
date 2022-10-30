@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working at Tribunal de Contas do Estado do Espírito Santo (or just TCEES) as an IT infrastructure intern!
 
-- 📚 Learning more about **React, React Native, JS, HTML, CSS and Figma**
+- 📚 Learning more about **React, React Native, SQL, JS, C++ and HTML**
 
 - 🤝 If I can help you, **I will**
 
