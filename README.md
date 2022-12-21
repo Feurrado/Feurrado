@@ -12,7 +12,7 @@
 
 - ❔ Wanna know something? ask me **anything**
 
-- ✉️ Reach me in **thm.profissional@gmail.com** or in <a href="https://linkedin.com/in/engthm" target="_blank">LinkedIn</a>
+- ✉️ Reach me in **thm.profissional@gmail.com** or on <a href="https://linkedin.com/in/engthm" target="_blank">LinkedIn</a>
 
 - 💡 Wanna know what else I'm studiyng? more projects? check my <a href="https://codepen.io/feurrado" target="_blank">CodePen</a>
 
