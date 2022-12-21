@@ -15,6 +15,8 @@
 - ✉️ Reach me in **thm.profissional@gmail.com** or in <a href="https://linkedin.com/in/engthm" target="_blank">LinkedIn</a>
 
 - 💡 Wanna know what else I'm studiyng? more projects? check my <a href="https://codepen.io/feurrado" target="_blank">CodePen</a>
+
+- 🦐 The shrimp? well. My first webpage had a picture of a shrimp sitting on a chair, so... there he is! 
   
 <h3 align="left">Connect with me:</h3>
 
