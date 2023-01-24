@@ -22,7 +22,7 @@
 
 - 💡 Wanna know what else I'm studiyng? more projects? check my <a href="https://codepen.io/feurrado" target="_blank">CodePen</a>
 
-- 🦐 The shrimp? Well... my first webpage had a picture of a shrimp sitting on a chair, so there he is! (the chair is gone now :/ )
+- 🦐 The shrimp? Well... my first webpage had a picture of a shrimp sitting on a chair, so there he is! (the chair is gone now)
   
 <h3 align="left">
   Connect with me: 
