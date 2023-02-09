@@ -4,15 +4,19 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> 
 </h1>
 
-<h3 align="center">My name is Thiago Moreira, and I code sometimes </h3>
+<h3 align="center">My name is Thiago Moreira, and I code sometimes </h3>  <!-- HEY THAT'S MY NAME! -->
 
 </br> 
 
-<!-- content -->
+<!-- content
+
+I don't know man, I really don't like coding, it's not for me gimme a server to build. 
+
+-->
 
 - 💻 I’m currently working at Tribunal de Contas do Estado do Espírito Santo (or just TCEES) as an IT infrastructure intern!
 
-- 📚 Learning more about **React, React Native, SQL, JS, C++ and HTML**
+- 📚 Learning more about **IT infrastructure and CyberSecurity**
 
 - 🤝 If I can help you, **I will**
 
