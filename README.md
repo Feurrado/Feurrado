@@ -95,12 +95,13 @@ I don't know man, I really don't like coding, it's not for me gimme a server to 
 
   
 <br>
+
   graphs may be broken :/
 <!-- 
       ok, It's my fault, I'm too lazy right now to run this graphs locally, so they come and go... 
       like free birds, btw do you like Lynyrd Skynyrd?
 -->
-<hr>
+<br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Feurrado&show_icons=true&locale=en&layout=compact" />
 
