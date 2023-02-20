@@ -60,14 +60,13 @@ I don't know man, I really don't like coding, it's not for me gimme a server to 
      width="40" 
      height="40"/></a> 
 <!-- Not doing this for all of it. -->
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" alt="SQLserver" width="40" height="40"/> </a>  
+  <a href="https://www.veritas.com/pt/br/protection/netbackup" target="_blank"> <img src="https://store-images.s-microsoft.com/image/apps.19047.dd0b6fff-a185-49a0-be59-b3ad1522b740.66b2e634-9417-4daa-8fc9-7d95c6b74538.1bb7ce36-07d3-466b-93cc-d2115bb1b443" alt="Veritas Netbkp" width="40" height="40"/> </a> 
+  
+
   
 <br>
   graphs may be broken :/
