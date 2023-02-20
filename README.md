@@ -54,17 +54,48 @@ I don't know man, I really don't like coding, it's not for me gimme a server to 
 
 <p align="left"> 
   
+  
+  <a href="https://www.veritas.com/pt/br/protection/netbackup" target="_blank"> 
+    <img src="https://store-images.s-microsoft.com/image/apps.19047.dd0b6fff-a185-49a0-be59-b3ad1522b740.66b2e634-9417-4daa-8fc9-7d95c6b74538.1bb7ce36-07d3-466b-93cc-d2115bb1b443" 
+         alt="Veritas Netbkp" 
+         width="40" 
+         height="40"/> </a>
+  
+  <a href="https://www.fortinet.com/br/products/management/fortimanager" target="_blank"> 
+    <img src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1657094696" 
+         alt="FortiManager" 
+         width="50" 
+         height="40"/> </a>
+  
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
+    <img src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" 
+         alt="SQLserver" 
+         width="40" 
+         height="40"/> </a> 
+  
   <a href="https://www.w3schools.com/css/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
      alt="css3" 
      width="40" 
-     height="40"/></a> 
-<!-- Not doing this for all of it. -->
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" alt="SQLserver" width="40" height="40"/> </a>  
-  <a href="https://www.veritas.com/pt/br/protection/netbackup" target="_blank"> <img src="https://store-images.s-microsoft.com/image/apps.19047.dd0b6fff-a185-49a0-be59-b3ad1522b740.66b2e634-9417-4daa-8fc9-7d95c6b74538.1bb7ce36-07d3-466b-93cc-d2115bb1b443" alt="Veritas Netbkp" width="40" height="40"/> </a> 
+     height="40"/> </a> 
+  
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+         alt="html5" 
+         width="40" 
+         height="40"/> </a>
+  
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+         alt="git" 
+         width="40" 
+         height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+         alt="javascript" 
+         width="40" 
+         height="40"/> </a> 
+ 
   
 
   
