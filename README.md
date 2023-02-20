@@ -67,6 +67,12 @@ I don't know man, I really don't like coding, it's not for me gimme a server to 
          width="50" 
          height="40"/> </a>
   
+  <a href="https://www.ansible.com/" target="_blank"> 
+    <img src="https://redhat.gallerycdn.vsassets.io/extensions/redhat/ansible/1.2.44/1676545565877/Microsoft.VisualStudio.Services.Icons.Default" 
+         alt="Ansible" 
+         width="40" 
+         height="40"/> </a>
+  
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
     <img src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" 
          alt="SQLserver" 
