@@ -13,7 +13,7 @@ I don't know man, I really don't like coding, it's not for me gimme a server to 
 
 -->
 
-- 💻 I’m currently working at Tribunal de Contas do Estado do Espírito Santo (or just TCEES) as an IT infrastructure intern!
+- 💻 I’m currently working at Tribunal de Contas do Estado do Espírito Santo (or just TCEES)
 
 - 📚 Learning more about **IT infrastructure and CyberSecurity**
 
